@@ -1,2 +1,6 @@
-# teiu-backend
-Repositorio com o código de ligação entre Firebase e Google Cloud IoT Core
+# SERIO Arq. - A SERverless IOt Arquiteture
+---
+
+## Introduction
+
+To be continued...
